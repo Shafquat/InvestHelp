@@ -9750,4 +9750,5 @@
 	        <item> Canada </item>
 	    </string-array>
 	    <string name="country_prompt">Choose a country</string>
+	    <string name="stock_name">Type in a stock</string>
 </resources>

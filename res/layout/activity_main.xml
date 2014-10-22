@@ -13,7 +13,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_alignRight="@+id/listView_main"
-    android:hint="Type in a Stock" />
+    android:hint="@string/stock_name" />
 
 <Button
     android:id="@+id/button1"
